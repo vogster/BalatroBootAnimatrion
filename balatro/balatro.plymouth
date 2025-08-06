@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Balatro
+Description=Jimbo is here
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/balatro
+ScriptFile=/usr/share/plymouth/themes/balatro/balatro.script
